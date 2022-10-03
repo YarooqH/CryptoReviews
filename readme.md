@@ -8,14 +8,14 @@
 
 Main Page
 
-[MainPage](./assets/img-1.png)
+(./assets/img-1.png)
 
-[TVShows](./assets/img-2.png)
+(./assets/img-2.png)
 
-[Movies](./assets/img-3.png)
+(./assets/img-3.png)
 
-[Review1](./assets/img-4.png)
+(./assets/img-4.png)
 
-[Review2](./assets/img-5.png)
+(./assets/img-5.png)
 
 
