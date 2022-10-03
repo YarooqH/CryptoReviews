@@ -2,7 +2,7 @@
 
 ## How it works - Frontend
 
-[Video Walkthrough](https://youtu.be/z_lfthOsbQA)
+[Video Walkthrough - Youtube](https://youtu.be/z_lfthOsbQA)
 
 ## Images
 
